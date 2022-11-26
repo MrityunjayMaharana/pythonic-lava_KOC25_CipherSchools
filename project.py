@@ -23,7 +23,7 @@ def nameRank(names, marks, updates, n):
             abs(highest[2] - 1), sep="")
  
 
-names= ["sam", "ram", "geek"]
+names= ["student1", "student2", "student3"]
  
 
 marks = [80, 50, 75]
